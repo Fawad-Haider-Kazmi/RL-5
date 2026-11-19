@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 AgentDecisionLab
+# 🎯 RL-5
 
 *Reinforcement Learning and Game Theory Applied to AI Agents and Agentic Systems*
 
