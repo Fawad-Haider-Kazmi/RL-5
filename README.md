@@ -4,9 +4,6 @@
 
 *Reinforcement Learning and Game Theory Applied to AI Agents and Agentic Systems*
 
-![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/AgentDecisionLab)
-![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/AgentDecisionLab)
-
 <br>
 
 Built with the tools and technologies:  
