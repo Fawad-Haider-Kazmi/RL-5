@@ -83,8 +83,8 @@ The trained agent shows a clear, measurable improvement over random behavior, le
 
 ```bash
 # Clone the repo
-git clone https://github.com/Muhammad-Ahmed-Rayyan/AgentDecisionLab.git
-cd AgentDecisionLab
+git clone https://github.com/Fawad-Haider-Kazmi/RL-5.git
+cd RL-5
 
 # Create virtual environment
 python -m venv venv
