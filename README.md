@@ -18,7 +18,7 @@ Built with the tools and technologies:
 
 ## 🧠 Project Summary
 
-**AgentDecisionLab** explores two decision-making frameworks — Reinforcement Learning and Game Theory — and applies them in two distinct ways:
+**RL-5** explores two decision-making frameworks — Reinforcement Learning and Game Theory — and applies them in two distinct ways:
 
 1. **Reinforcement Learning:** a Q-Learning agent trained from scratch on OpenAI Gymnasium's FrozenLake environment, compared against a random-action baseline.
 2. **Game Theory:** an applied analysis of a separate case study system, a Multi-Agent Incident Response & On-Call Triage System, modeling its six agents as players in a cooperative game with one embedded non-cooperative subgame.
@@ -49,7 +49,7 @@ Built as Task 5 of the AI Engineering Internship at Alphatron Technologies. The 
 ## 🗃️ Project Structure
 
 ```bash
-AgentDecisionLab/
+RL-5/
 ├── README.md
 ├── requirements.txt
 ├── scripts/
